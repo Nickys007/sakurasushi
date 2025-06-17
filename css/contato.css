@@ -299,11 +299,11 @@ textarea {
     padding: 1rem;
   }
 
-      .logo img {
-    margin-left: 95px;
+  .logo img {
+    margin-left: 80px;
     height: 40px;
-  }
 
+  }
 
   .menu-toggle {
     display: block;

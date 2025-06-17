@@ -301,9 +301,10 @@ input:focus {
       display: none;
     }
   
-    .logo img {
-    margin-left: 95px;
+  .logo img {
+    margin-left: 80px;
     height: 40px;
+
   }
 
 

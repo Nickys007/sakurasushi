@@ -56,7 +56,7 @@ body {
 
 .logo img {
   height: 50px;
-  margin-left: 138px
+  margin-left: 110px
 }
 
 .center {
@@ -432,8 +432,9 @@ body {
   }
 
   .logo img {
-    margin-left: 95px;
+    margin-left: 80px;
     height: 40px;
+
   }
 
   .banner {
